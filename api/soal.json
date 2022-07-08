@@ -1,20 +1,20 @@
 [
     {
         "id": 1,
-        "question": "Siapakah nama preisden ke-7 Indonesia ?",
-        "opta": "Jokowi",
-        "optb": "SBY",
-        "optc": "Soeharto",
-        "optd": "Habibie",
+        "question": "Water = ...",
+        "opta": "Air",
+        "optb": "Api",
+        "optc": "Bunga",
+        "optd": "Awan",
         "opte": "Megawati",
         "key": "a",
         "cat": "umum"
     },
     {
         "id": 2,
-        "question": "Dimana Ibukota negara Tiongkok? ?",
+        "question": "Fire = ...",
         "opta": "Shanghai",
-        "optb": "Beijing",
+        "optb": "Api",
         "optc": "Seoul",
         "optd": "Wuhan",
         "opte": "Toyo",
