@@ -8,7 +8,7 @@
         "optd": "Awan",
         "opte": "Megawati",
         "key": "a",
-        "cat": "umum"
+        "cat": "1"
     },
     {
         "id": 2,
@@ -19,7 +19,7 @@
         "optd": "Wuhan",
         "opte": "Toyo",
         "key": "b",
-        "cat": "umum"
+        "cat": "1"
     },
     {
         "id": 3,
@@ -30,7 +30,7 @@
         "optd": "Jakarta",
         "opte": "Bandung",
         "key": "c",
-        "cat": "umum"
+        "cat": "1"
     },
     {
         "id": 4,
@@ -41,7 +41,7 @@
         "optd": "T-Rex",
         "opte": "Mamooth",
         "key": "b",
-        "cat": "umum"
+        "cat": "1"
     },
     {
         "id": 5,
@@ -52,7 +52,7 @@
         "optd": "Geologi",
         "opte": "Merah",
         "key": "e",
-        "cat": "umum"
+        "cat": "1"
     },
     {
         "id": 6,
@@ -63,7 +63,7 @@
         "optd": "Hitam",
         "opte": "Antartika",
         "key": "d",
-        "cat": "umum"
+        "cat": "1"
     },
     {
         "id": 7,
@@ -74,7 +74,7 @@
         "optd": "1915",
         "opte": "1820",
         "key": "b",
-        "cat": "umum"
+        "cat": "1"
     },
     {
         "id": 8,
@@ -85,7 +85,7 @@
         "optd": "Militer",
         "opte": "Industri",
         "key": "c",
-        "cat": "umum"
+        "cat": "1"
     },
     {
         "id": 9,
@@ -96,7 +96,7 @@
         "optd": "Warna",
         "opte": "Pelangi",
         "key": "d",
-        "cat": "umum"
+        "cat": "1"
     },
     {
         "id": 10,
@@ -107,18 +107,18 @@
         "optd": "Bantul",
         "opte": "Kota",
         "key": "e",
-        "cat": "umum"
+        "cat": "1"
     },
     {
         "id": 11,
         "question": "Common = ...",
-        "opta": "Umum",
+        "opta": "1",
         "optb": "Lary Page",
         "optc": "Mark Zuckerberg",
         "optd": "Linus Torvalds",
         "opte": "Bill Gates",
         "key": "a",
-        "cat": "umum"
+        "cat": "1"
     },
     {
         "id": 12,
@@ -129,7 +129,7 @@
         "optd": "1012 meter",
         "opte": "901 meter",
         "key": "b",
-        "cat": "umum"
+        "cat": "1"
     },
     {
         "id": 13,
@@ -140,7 +140,7 @@
         "optd": "Monyet",
         "opte": "Gorila",
         "key": "a",
-        "cat": "umum"
+        "cat": "1"
     },
     {
         "id": 14,
@@ -151,7 +151,7 @@
         "optd": "Meja",
         "opte": "Papua Barat",
         "key": "d",
-        "cat": "umum"
+        "cat": "1"
     },
     {
         "id": 15,
@@ -162,7 +162,7 @@
         "optd": "Fuji",
         "opte": "Everest",
         "key": "e",
-        "cat": "umum"
+        "cat": "1"
     },
     {
         "id": 16,
@@ -173,7 +173,7 @@
         "optd": "Flores",
         "opte": "Maluku",
         "key": "a",
-        "cat": "umum"
+        "cat": "1"
     },
     {
         "id": 17,
@@ -184,7 +184,7 @@
         "optd": "2016",
         "opte": "2028",
         "key": "b",
-        "cat": "umum"
+        "cat": "1"
     },
     {
         "id": 18,
@@ -195,7 +195,7 @@
         "optd": "82",
         "opte": "94",
         "key": "c",
-        "cat": "umum"
+        "cat": "1"
     },
     {
         "id": 19,
@@ -206,7 +206,7 @@
         "optd": "Inggris",
         "opte": "Amerika",
         "key": "d",
-        "cat": "umum"
+        "cat": "1"
     },
     {
         "id": 20,
@@ -217,7 +217,7 @@
         "optd": "Tembaga",
         "opte": "Uranium",
         "key": "c",
-        "cat": "umum"
+        "cat": "1"
     },
     {
         "id": 21,
@@ -228,7 +228,7 @@
         "optd": "China",
         "opte": "Jerman",
         "key": "c",
-        "cat": "umum"
+        "cat": "1"
     },
     {
         "id": 22,
@@ -239,7 +239,7 @@
         "optd": "Maroko",
         "opte": "Arab Qatar",
         "key": "b",
-        "cat": "umum"
+        "cat": "1"
     },
     {
         "id": 23,
@@ -250,7 +250,7 @@
         "optd": "Sri Lanka",
         "opte": "India",
         "key": "a",
-        "cat": "umum"
+        "cat": "1"
     },
     {
         "id": 24,
@@ -261,7 +261,7 @@
         "optd": "Nikola Tesla",
         "opte": "Thomas Alfa Edison",
         "key": "c",
-        "cat": "umum"
+        "cat": "1"
     },
     {
         "id": 25,
@@ -272,7 +272,7 @@
         "optd": "Pablo Picasso",
         "opte": "Leonardo da Vinci",
         "key": "e",
-        "cat": "umum"
+        "cat": "1"
     },
     {
         "id": 26,
@@ -283,7 +283,7 @@
         "optd": "Nikola Tesla",
         "opte": "Thomas Alfa Edison",
         "key": "e",
-        "cat": "umum"
+        "cat": "1"
     },
     {
         "id": 27,
@@ -294,7 +294,7 @@
         "optd": "Venesia",
         "opte": "Pisa",
         "key": "c",
-        "cat": "umum"
+        "cat": "1"
     },
     {
         "id": 28,
@@ -305,7 +305,7 @@
         "optd": "Parana",
         "opte": "Musi",
         "key": "c",
-        "cat": "umum"
+        "cat": "1"
     },
     {
         "id": 29,
@@ -316,7 +316,7 @@
         "optd": "Arktik",
         "opte": "Antartika",
         "key": "a",
-        "cat": "umum"
+        "cat": "1"
     },
     {
         "id": 30,
@@ -327,7 +327,7 @@
         "optd": "Vatikan",
         "opte": "Kepulauan Faroe",
         "key": "d",
-        "cat": "umum"
+        "cat": "1"
     },
     {
         "id": 31,
@@ -338,7 +338,7 @@
         "optd": "Naluri",
         "opte": "Mata",
         "key": "b",
-        "cat": "sains"
+        "cat": "2"
     },
     {
         "id": 32,
@@ -349,7 +349,7 @@
         "optd": "Dorong",
         "opte": "Tarik",
         "key": "c",
-        "cat": "sains"
+        "cat": "2"
     },
     {
         "id": 33,
@@ -360,7 +360,7 @@
         "optd": "Gelombang",
         "opte": "Bunyi",
         "key": "d",
-        "cat": "sains"
+        "cat": "2"
     },
     {
         "id": 34,
@@ -371,7 +371,7 @@
         "optd": "Kebutaan",
         "opte": "Katarak",
         "key": "a",
-        "cat": "sains"
+        "cat": "2"
     },
     {
         "id": 35,
@@ -382,7 +382,7 @@
         "optd": "4",
         "opte": "5",
         "key": "b",
-        "cat": "sains"
+        "cat": "2"
     },
     {
         "id": 36,
@@ -393,7 +393,7 @@
         "optd": "He",
         "opte": "Na",
         "key": "c",
-        "cat": "sains"
+        "cat": "2"
     },
     {
         "id": 37,
@@ -404,7 +404,7 @@
         "optd": "Revolusi bulan",
         "opte": "Rotasi bulan",
         "key": "b",
-        "cat": "sains"
+        "cat": "2"
     },
     {
         "id": 38,
@@ -415,7 +415,7 @@
         "optd": "Psikologi",
         "opte": "Astronomi",
         "key": "c",
-        "cat": "sains"
+        "cat": "2"
     },
     {
         "id": 39,
@@ -426,7 +426,7 @@
         "optd": "Mencair",
         "opte": "Mengkristal",
         "key": "a",
-        "cat": "sains"
+        "cat": "2"
     },
     {
         "id": 40,
@@ -437,7 +437,7 @@
         "optd": "Mata",
         "opte": "Sumsum tulang belangan",
         "key": "b",
-        "cat": "sains"
+        "cat": "2"
     },
     {
         "id": 41,
@@ -448,7 +448,7 @@
         "optd": "Presbiopi",
         "opte": "Rabun senja",
         "key": "a",
-        "cat": "sains"
+        "cat": "2"
     },
     {
         "id": 42,
@@ -459,7 +459,7 @@
         "optd": "Panjang gelombang",
         "opte": "Amplitudo",
         "key": "e",
-        "cat": "sains"
+        "cat": "2"
     },
     {
         "id": 43,
@@ -470,7 +470,7 @@
         "optd": "Trakrea",
         "opte": "Ginjal",
         "key": "c",
-        "cat": "sains"
+        "cat": "2"
     },
     {
         "id": 44,
@@ -481,7 +481,7 @@
         "optd": "Abnormsl",
         "opte": "Nokturnal",
         "key": "e",
-        "cat": "sains"
+        "cat": "2"
     },
     {
         "id": 45,
@@ -492,7 +492,7 @@
         "optd": "Uranus",
         "opte": "Neptunus",
         "key": "b",
-        "cat": "sains"
+        "cat": "2"
     },
     {
         "id": 46,
@@ -503,7 +503,7 @@
         "optd": "Fungimycota",
         "opte": "Deuteromycota",
         "key": "d",
-        "cat": "sains"
+        "cat": "2"
     },
     {
         "id": 47,
@@ -514,7 +514,7 @@
         "optd": "Besi",
         "opte": "Karbon",
         "key": "e",
-        "cat": "sains"
+        "cat": "2"
     },
     {
         "id": 48,
@@ -525,7 +525,7 @@
         "optd": "Oksidasi",
         "opte": "Respirasi",
         "key": "d",
-        "cat": "sains"
+        "cat": "2"
     },
     {
         "id": 49,
@@ -536,7 +536,7 @@
         "optd": "Kuat arus",
         "opte": "Volume",
         "key": "b",
-        "cat": "sains"
+        "cat": "2"
     },
     {
         "id": 50,
@@ -547,7 +547,7 @@
         "optd": "Gaya",
         "opte": "Massa",
         "key": "d",
-        "cat": "sains"
+        "cat": "2"
     },
     {
         "id": 51,
@@ -558,7 +558,7 @@
         "optd": "He",
         "opte": "Fe",
         "key": "d",
-        "cat": "sains"
+        "cat": "2"
     },
     {
         "id": 52,
@@ -569,7 +569,7 @@
         "optd": "Vivipar",
         "opte": "Fragmentasi",
         "key": "b",
-        "cat": "sains"
+        "cat": "2"
     },
     {
         "id": 53,
@@ -580,7 +580,7 @@
         "optd": "Vivipar",
         "opte": "Fragmentasi",
         "key": "a",
-        "cat": "sains"
+        "cat": "2"
     },
     {
         "id": 54,
@@ -591,7 +591,7 @@
         "optd": "Ovulasi",
         "opte": "Menopause",
         "key": "d",
-        "cat": "sains"
+        "cat": "2"
     },
     {
         "id": 55,
@@ -602,7 +602,7 @@
         "optd": "Ovulasi",
         "opte": "Menopause",
         "key": "b",
-        "cat": "sains"
+        "cat": "2"
     },
     {
         "id": 56,
@@ -613,7 +613,7 @@
         "optd": "Kelenjar Keringat",
         "opte": "Dermis",
         "key": "a",
-        "cat": "sains"
+        "cat": "2"
     },
     {
         "id": 57,
@@ -624,7 +624,7 @@
         "optd": "Iris",
         "opte": "Pupil",
         "key": "b",
-        "cat": "sains"
+        "cat": "2"
     },
     {
         "id": 58,
@@ -635,7 +635,7 @@
         "optd": "Pelana",
         "opte": "Peluru",
         "key": "a",
-        "cat": "sains"
+        "cat": "2"
     },
     {
         "id": 59,
@@ -646,7 +646,7 @@
         "optd": "Singkong",
         "opte": "Karet",
         "key": "c",
-        "cat": "sains"
+        "cat": "2"
     },
     {
         "id": 60,
@@ -657,7 +657,7 @@
         "optd": "Radiasi",
         "opte": "LED",
         "key": "a",
-        "cat": "sains"
+        "cat": "2"
     },
     {
         "id": 61,
@@ -668,18 +668,18 @@
         "optd": "CD",
         "opte": "Hard Drive",
         "key": "b",
-        "cat": "tekno"
+        "cat": "3"
     },
     {
         "id": 62,
-        "question": "Teknologi Rontgen pada rumah sakit menggunakan bantuan ?",
+        "question": "3logi Rontgen pada rumah sakit menggunakan bantuan ?",
         "opta": "Sinar Gama",
         "optb": "Sinar Alpha",
         "optc": "Sinar X",
         "optd": "Sinar Beta",
         "opte": "Sinar UV",
         "key": "c",
-        "cat": "tekno"
+        "cat": "3"
     },
     {
         "id": 63,
@@ -690,7 +690,7 @@
         "optd": "Deselerasi",
         "opte": "Turbulensi",
         "key": "a",
-        "cat": "tekno"
+        "cat": "3"
     },
     {
         "id": 64,
@@ -701,7 +701,7 @@
         "optd": "PCM",
         "opte": "Alternator",
         "key": "e",
-        "cat": "tekno"
+        "cat": "3"
     },
     {
         "id": 65,
@@ -712,7 +712,7 @@
         "optd": "Disket",
         "opte": "SSD",
         "key": "a",
-        "cat": "tekno"
+        "cat": "3"
     },
     {
         "id": 66,
@@ -723,7 +723,7 @@
         "optd": "Mouse",
         "opte": "UTP",
         "key": "d",
-        "cat": "tekno"
+        "cat": "3"
     },
     {
         "id": 67,
@@ -734,7 +734,7 @@
         "optd": "KBps",
         "opte": "Hz",
         "key": "b",
-        "cat": "tekno"
+        "cat": "3"
     },
     {
         "id": 68,
@@ -745,7 +745,7 @@
         "optd": "Keyboard",
         "opte": "Power Supply",
         "key": "b",
-        "cat": "tekno"
+        "cat": "3"
     },
     {
         "id": 69,
@@ -756,7 +756,7 @@
         "optd": "Suspensi",
         "opte": "Motor",
         "key": "a",
-        "cat": "tekno"
+        "cat": "3"
     },
     {
         "id": 70,
@@ -767,7 +767,7 @@
         "optd": "Aftur",
         "opte": "Gas",
         "key": "c",
-        "cat": "tekno"
+        "cat": "3"
     },
     {
         "id": 71,
@@ -778,18 +778,18 @@
         "optd": "VGA",
         "opte": "Harddisk",
         "key": "a",
-        "cat": "tekno"
+        "cat": "3"
     },
     {
         "id": 72,
-        "question": "Teknologi yang digunakan untuk menentukan lokasi dengan bantuan satelit adalah ?",
+        "question": "3logi yang digunakan untuk menentukan lokasi dengan bantuan satelit adalah ?",
         "opta": "4G",
         "optb": "5G",
         "optc": "GPS",
         "optd": "Internet",
         "opte": "kompas",
         "key": "c",
-        "cat": "tekno"
+        "cat": "3"
     },
     {
         "id": 73,
@@ -800,7 +800,7 @@
         "optd": "Tesla",
         "opte": "Cisco",
         "key": "e",
-        "cat": "tekno"
+        "cat": "3"
     },
     {
         "id": 74,
@@ -811,7 +811,7 @@
         "optd": "VGA",
         "opte": "Harddisk",
         "key": "e",
-        "cat": "tekno"
+        "cat": "3"
     },
     {
         "id": 75,
@@ -822,18 +822,18 @@
         "optd": "ROM",
         "opte": "RAM",
         "key": "b",
-        "cat": "tekno"
+        "cat": "3"
     },
     {
         "id": 76,
-        "question": "Perusahaan otomotif yang terkenal dengan teknologi mobil listriknya adalah ?",
+        "question": "Perusahaan otomotif yang terkenal dengan 3logi mobil listriknya adalah ?",
         "opta": "Hyundai",
         "optb": "Ferrari",
         "optc": "Honda",
         "optd": "Tesla",
         "opte": "Mitsubishi",
         "key": "d",
-        "cat": "tekno"
+        "cat": "3"
     },
     {
         "id": 77,
@@ -844,7 +844,7 @@
         "optd": "Internet Over Things",
         "opte": "Integrated Over Things",
         "key": "c",
-        "cat": "tekno"
+        "cat": "3"
     },
     {
         "id": 78,
@@ -855,7 +855,7 @@
         "optd": "Pemrosesan",
         "opte": "Jaringan",
         "key": "a",
-        "cat": "tekno"
+        "cat": "3"
     },
     {
         "id": 79,
@@ -866,7 +866,7 @@
         "optd": "C",
         "opte": "Java",
         "key": "c",
-        "cat": "tekno"
+        "cat": "3"
     },
     {
         "id": 80,
@@ -877,51 +877,51 @@
         "optd": "Pemrosesan",
         "opte": "Jaringan",
         "key": "c",
-        "cat": "tekno"
+        "cat": "3"
     },
     {
         "id": 81,
-        "question": "Teknologi yang biasa digunakan pada uang elektronik adalah ?",
+        "question": "3logi yang biasa digunakan pada uang elektronik adalah ?",
         "opta": "NFC",
         "optb": "Wifi",
         "optc": "Bluetooth",
         "optd": "GPS",
         "opte": "Infrared",
         "key": "a",
-        "cat": "tekno"
+        "cat": "3"
     },
     {
         "id": 82,
-        "question": "Teknologi wireless yang biasa digunakan pada remote klasik adalah ?",
+        "question": "3logi wireless yang biasa digunakan pada remote klasik adalah ?",
         "opta": "NFC",
         "optb": "Wifi",
         "optc": "Bluetooth",
         "optd": "GPS",
         "opte": "Infrared",
         "key": "e",
-        "cat": "tekno"
+        "cat": "3"
     },
     {
         "id": 83,
-        "question": "Yang bukan merupakan teknologi wireless adalah ?",
+        "question": "Yang bukan merupakan 3logi wireless adalah ?",
         "opta": "LAN",
         "optb": "Wifi",
         "optc": "NFC",
         "optd": "Bluetooth",
         "opte": "Infrared",
         "key": "a",
-        "cat": "tekno"
+        "cat": "3"
     },
     {
         "id": 84,
-        "question": "Teknologi yang menggabungkan dunia nyata dengan objek maya [virtual] adalah ?",
+        "question": "3logi yang menggabungkan dunia nyata dengan objek maya [virtual] adalah ?",
         "opta": "Virtual Reality",
         "optb": "Augmented Reality",
         "optc": "3D",
         "optd": "Hologram",
         "opte": "AI",
         "key": "b",
-        "cat": "tekno"
+        "cat": "3"
     },
     {
         "id": 85,
@@ -932,7 +932,7 @@
         "optd": "NFC",
         "opte": "Hologram",
         "key": "c",
-        "cat": "tekno"
+        "cat": "3"
     },
     {
         "id": 86,
@@ -943,7 +943,7 @@
         "optd": "Piston",
         "opte": "Motor",
         "key": "d",
-        "cat": "tekno"
+        "cat": "3"
     },
     {
         "id": 87,
@@ -954,7 +954,7 @@
         "optd": "Earphone",
         "opte": "Bluetooth",
         "key": "a",
-        "cat": "tekno"
+        "cat": "3"
     },
     {
         "id": 88,
@@ -965,7 +965,7 @@
         "optd": "KBps",
         "opte": "ms",
         "key": "a",
-        "cat": "tekno"
+        "cat": "3"
     },
     {
         "id": 89,
@@ -976,7 +976,7 @@
         "optd": "Kapasitor",
         "opte": "Baterai",
         "key": "b",
-        "cat": "tekno"
+        "cat": "3"
     },
     {
         "id": 90,
@@ -987,7 +987,7 @@
         "optd": "Kapasitor",
         "opte": "Baterai",
         "key": "a",
-        "cat": "tekno"
+        "cat": "3"
     },
     {
         "id": 91,
@@ -998,7 +998,7 @@
         "optd": "James Cameron",
         "opte": "Christoper Nolan",
         "key": "c",
-        "cat": "hiburan"
+        "cat": "4"
     },
     {
         "id": 92,
@@ -1009,7 +1009,7 @@
         "optd": "Tite Kubo",
         "opte": "Naoshi Arakawa",
         "key": "b",
-        "cat": "hiburan"
+        "cat": "4"
     },
     {
         "id": 93,
@@ -1020,7 +1020,7 @@
         "optd": "Australia",
         "opte": "Skotlandia",
         "key": "a",
-        "cat": "hiburan"
+        "cat": "4"
     },
     {
         "id": 94,
@@ -1031,7 +1031,7 @@
         "optd": "1973",
         "opte": "1971",
         "key": "b",
-        "cat": "hiburan"
+        "cat": "4"
     },
     {
         "id": 95,
@@ -1042,7 +1042,7 @@
         "optd": "Naruto",
         "opte": "One Piece",
         "key": "c",
-        "cat": "hiburan"
+        "cat": "4"
     },
     {
         "id": 96,
@@ -1053,7 +1053,7 @@
         "optd": "Robert Downey",
         "opte": "Tom Holland",
         "key": "c",
-        "cat": "hiburan"
+        "cat": "4"
     },
     {
         "id": 97,
@@ -1064,7 +1064,7 @@
         "optd": "Cartoon",
         "opte": "Visual Novel",
         "key": "b",
-        "cat": "hiburan"
+        "cat": "4"
     },
     {
         "id": 98,
@@ -1075,7 +1075,7 @@
         "optd": "Pro Evolution Soccer",
         "opte": "Far Cry",
         "key": "e",
-        "cat": "hiburan"
+        "cat": "4"
     },
     {
         "id": 99,
@@ -1086,7 +1086,7 @@
         "optd": "Shawsank Redemption",
         "opte": "Jaws",
         "key": "b",
-        "cat": "hiburan"
+        "cat": "4"
     },
     {
         "id": 100,
@@ -1097,7 +1097,7 @@
         "optd": "Tite Kubo",
         "opte": "Hideaki Sorachi",
         "key": "a",
-        "cat": "hiburan"
+        "cat": "4"
     },
     {
         "id": 101,
@@ -1108,7 +1108,7 @@
         "optd": "Chriss Evans",
         "opte": "Tobey Maguire",
         "key": "e",
-        "cat": "hiburan"
+        "cat": "4"
     },
     {
         "id": 102,
@@ -1119,7 +1119,7 @@
         "optd": "Jurassic Park",
         "opte": "The Avenger",
         "key": "b",
-        "cat": "hiburan"
+        "cat": "4"
     },
     {
         "id": 103,
@@ -1130,7 +1130,7 @@
         "optd": "Bucky Barnes",
         "opte": "Nick Fury",
         "key": "b",
-        "cat": "hiburan"
+        "cat": "4"
     },
     {
         "id": 104,
@@ -1141,7 +1141,7 @@
         "optd": "Sherlock Holmes",
         "opte": "Inception",
         "key": "d",
-        "cat": "hiburan"
+        "cat": "4"
     },
     {
         "id": 105,
@@ -1152,7 +1152,7 @@
         "optd": "Vegeta",
         "opte": "Bulma",
         "key": "c",
-        "cat": "hiburan"
+        "cat": "4"
     },
     {
         "id": 106,
@@ -1163,7 +1163,7 @@
         "optd": "Bruno Mars",
         "opte": "Justin Bieber",
         "key": "c",
-        "cat": "hiburan"
+        "cat": "4"
     },
     {
         "id": 107,
@@ -1174,7 +1174,7 @@
         "optd": "Capcom",
         "opte": "Nintendo",
         "key": "a",
-        "cat": "hiburan"
+        "cat": "4"
     },
     {
         "id": 108,
@@ -1185,7 +1185,7 @@
         "optd": "Microsoft",
         "opte": "EA Games",
         "key": "e",
-        "cat": "hiburan"
+        "cat": "4"
     },
     {
         "id": 109,
@@ -1196,7 +1196,7 @@
         "optd": "Bruno Mars",
         "opte": "Justin Bieber",
         "key": "b",
-        "cat": "hiburan"
+        "cat": "4"
     },
     {
         "id": 110,
@@ -1207,7 +1207,7 @@
         "optd": "Cartoon",
         "opte": "Visual Novel",
         "key": "c",
-        "cat": "hiburan"
+        "cat": "4"
     },
     {
         "id": 111,
@@ -1218,7 +1218,7 @@
         "optd": "Gary Oldman",
         "opte": "Antonio Banderas",
         "key": "a",
-        "cat": "hiburan"
+        "cat": "4"
     },
     {
         "id": 112,
@@ -1229,7 +1229,7 @@
         "optd": "Superman",
         "opte": "Titanic",
         "key": "b",
-        "cat": "hiburan"
+        "cat": "4"
     },
     {
         "id": 113,
@@ -1240,7 +1240,7 @@
         "optd": "Superman",
         "opte": "Titanic",
         "key": "c",
-        "cat": "hiburan"
+        "cat": "4"
     },
     {
         "id": 114,
@@ -1251,7 +1251,7 @@
         "optd": "Superman",
         "opte": "Titanic",
         "key": "c",
-        "cat": "hiburan"
+        "cat": "4"
     },
     {
         "id": 115,
@@ -1262,7 +1262,7 @@
         "optd": "DreadOut",
         "opte": "Resident Evil",
         "key": "e",
-        "cat": "hiburan"
+        "cat": "4"
     },
     {
         "id": 116,
@@ -1273,7 +1273,7 @@
         "optd": "DreadOut",
         "opte": "Resident Evil",
         "key": "d",
-        "cat": "hiburan"
+        "cat": "4"
     },
     {
         "id": 117,
@@ -1284,7 +1284,7 @@
         "optd": "Australia",
         "opte": "Irlandia",
         "key": "b",
-        "cat": "hiburan"
+        "cat": "4"
     },
     {
         "id": 118,
@@ -1295,7 +1295,7 @@
         "optd": "Australia",
         "opte": "Irlandia",
         "key": "e",
-        "cat": "hiburan"
+        "cat": "4"
     },
     {
         "id": 119,
@@ -1306,7 +1306,7 @@
         "optd": "Korea Selatan",
         "opte": "Kanada",
         "key": "d",
-        "cat": "hiburan"
+        "cat": "4"
     },
     {
         "id": 120,
@@ -1317,6 +1317,6 @@
         "optd": "Captain America",
         "opte": "Thor",
         "key": "c",
-        "cat": "hiburan"
+        "cat": "4"
     }
 ]
