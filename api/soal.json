@@ -287,8 +287,226 @@
     "key": "e",
     "cat": "3"
 },
-
-
+{
+    "id": 31,
+    "question": "Table = ...",
+    "opta": "Meja",
+    "optb": "Kasur",
+    "optc": "Bantal",
+    "optd": "Kursi",
+    "opte": "Pagar",
+    "key": "a",
+    "cat": "4"
+},
+{
+    "id": 32,
+    "question": "Door = ...",
+    "opta": "Pagar",
+    "optb": "Pintu",
+    "optc": "Jendela",
+    "optd": "Lantai",
+    "opte": "Atap",
+    "key": "b",
+    "cat": "4"
+},
+{
+    "id": 33,
+    "question": "Window = ...",
+    "opta": "Pintu",
+    "optb": "Meja",
+    "optc": "Jendela",
+    "optd": "Lemari",
+    "opte": "Tempat Tidur",
+    "key": "c",
+    "cat": "4"
+},
+{
+    "id": 34,
+    "question": "Spoon = ...",
+    "opta": "Garpu",
+    "optb": "Mangkuk",
+    "optc": "Piring",
+    "optd": "Sendok",
+    "opte": "Dinding",
+    "key": "d",
+    "cat": "4"
+},
+{
+    "id": 35,
+    "question": "Fork = ...",
+    "opta": "Sendok",
+    "optb": "Meja",
+    "optc": "Piring",
+    "optd": "Nasi",
+    "opte": "Garpu",
+    "key": "e",
+    "cat": "4"
+},
+{
+    "id": 36,
+    "question": "Wall = ...",
+    "opta": "Dinding",
+    "optb": "Meja",
+    "optc": "Lantai",
+    "optd": "Atap",
+    "opte": "Lemari",
+    "key": "a",
+    "cat": "4"
+},
+{
+    "id": 37,
+    "question": "Bed = ...",
+    "opta": "Jendela",
+    "optb": "Tempat Tidur",
+    "optc": "Pintu",
+    "optd": "Atap",
+    "opte": "Lemari",
+    "key": "b",
+    "cat": "4"
+},
+{
+    "id": 38,
+    "question": "Water = ...",
+    "opta": "Kipas",
+    "optb": "Gelas",
+    "optc": "Air",
+    "optd": "Angin",
+    "opte": "Api",
+    "key": "c",
+    "cat": "4"
+},
+{
+    "id": 39,
+    "question": "Bag = ...",
+    "opta": "Ember",
+    "optb": "Air",
+    "optc": "Sendok",
+    "optd": "Tas",
+    "opte": "Tempat Tidur",
+    "key": "d",
+    "cat": "4"
+},
+{
+    "id": 40,
+    "question": "Clothes = ...",
+    "opta": "Selimut",
+    "optb": "Kasur",
+    "optc": "Bantal",
+    "optd": "Tas",
+    "opte": "Pakaian",
+    "key": "e",
+    "cat": "4"
+},
+{
+    "id": 41,
+    "question": "Ball = ...",
+    "opta": "Bola",
+    "optb": "Pagar",
+    "optc": "Baju",
+    "optd": "Sepatu",
+    "opte": "Topi",
+    "key": "a",
+    "cat": "5"
+},
+{
+    "id": 42,
+    "question": "Wheel = ...",
+    "opta": "Mobil",
+    "optb": "Roda",
+    "optc": "Keranjang",
+    "optd": "Dinding",
+    "opte": "Atap",
+    "key": "b",
+    "cat": "5"
+},
+{
+    "id": 43,
+    "question": "Bottle = ...",
+    "opta": "Ember",
+    "optb": "Jendela",
+    "optc": "Botol",
+    "optd": "Piring",
+    "opte": "Sendok",
+    "key": "c",
+    "cat": "5"
+},
+{
+    "id": 44,
+    "question": "Pillow = ...",
+    "opta": "Kasur",
+    "optb": "Selimut",
+    "optc": "Dinding",
+    "optd": "Bantal",
+    "opte": "Atap",
+    "key": "d",
+    "cat": "5"
+},
+{
+    "id": 45,
+    "question": "Cupboard = ...",
+    "opta": "Tempat Tidur",
+    "optb": "Dinding",
+    "optc": "Meja",
+    "optd": "Jendela",
+    "opte": "Lemari",
+    "key": "e",
+    "cat": "5"
+},
+{
+    "id": 46,
+    "question": "Mirror = ...",
+    "opta": "Cermin",
+    "optb": "Jendela",
+    "optc": "Meja",
+    "optd": "Atap",
+    "opte": "Lemari",
+    "key": "a",
+    "cat": "5"
+},
+{
+    "id": 47,
+    "question": "Key = ...",
+    "opta": "Lemari",
+    "optb": "Kunci",
+    "optc": "Pintu",
+    "optd": "Jendela",
+    "opte": "Pagar",
+    "key": "b",
+    "cat": "5"
+},
+{
+    "id": 48,
+    "question": "Ring = ...",
+    "opta": "Anting",
+    "optb": "Kacamata",
+    "optc": "Cincin",
+    "optd": "Sepatu",
+    "opte": "Celana",
+    "key": "c",
+    "cat": "5"
+},
+{
+    "id": 49,
+    "question": "Floor = ...",
+    "opta": "Atap",
+    "optb": "Lemari",
+    "optc": "Rumah",
+    "optd": "Lantai",
+    "opte": "Dinding",
+    "key": "d",
+    "cat": "5"
+},
+{
+    "id": 50,
+    "question": "Roof = ...",
+    "opta": "Lantai",
+    "optb": "Pintu",
+    "optc": "Lemari",
+    "optd": "Jendela",
+    "opte": "Atap",
+    "key": "e",
+    "cat": "5"
+},
 
 
 
