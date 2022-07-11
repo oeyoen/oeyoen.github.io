@@ -1,81 +1,308 @@
 [
-    {
-        "id": 1,
-        "question": "Red = ...",
-        "opta": "Kuning",
-        "optb": "Biru",
-        "optc": "Merah",
-        "optd": "Hitam",
-        "opte": "Cokelat",
-        "key": "c",
-        "cat": "1"
-    },
-    {
-        "id": 2,
-        "question": "Blue = ...",
-        "opta": "Biru",
-        "optb": "Cokelat",
-        "optc": "Kuning",
-        "optd": "Merah",
-        "opte": "Abu Abu",
-        "key": "a",
-        "cat": "1"
-    },
-    {
-        "id": 3,
-        "question": "Green = ...",
-        "opta": "Merah Muda",
-        "optb": "Abu Abu",
-        "optc": "Merah",
-        "optd": "Hijau",
-        "opte": "Putih",
-        "key": "d",
-        "cat": "1"
-    },
-    {
-        "id": 4,
-        "question": "Yellow = ...",
-        "opta": "Hijau",
-        "optb": "Merah",
-        "optc": "Kuning",
-        "optd": "Hitam",
-        "opte": "Ungu",
-        "key": "c",
-        "cat": "1"
-    },
-    {
-        "id": 5,
-        "question": "Purple = ...",
-        "opta": "Putih",
-        "optb": "Biru",
-        "optc": "Merah",
-        "optd": "Ungu",
-        "opte": "Hitam",
-        "key": "d",
-        "cat": "1"
-    },
-    {
-        "id": 6,
-        "question": "Black = ...",
-        "opta": "Putih",
-        "optb": "Hitam",
-        "optc": "Kuning",
-        "optd": "Merah",
-        "opte": "Abu Abu",
-        "key": "b",
-        "cat": "1"
-    },
-    {
-        "id": 7, "question": "White = ...",  "opta": "Kuning", "optb": "Putih", "optc": "Hitam", "optd": "Hijau", "opte": "Abu Abu", "key": "b","cat": "1"
-    },
+{ "id": 1,"question": "Red = ...","opta": "Kuning","optb": "Biru","optc": "Merah","optd": "Hitam","opte": "Cokelat","key": "c","cat": "1" },
+{ "id": 2,"question": "Blue = ...","opta": "Biru","optb": "Cokelat","optc": "Kuning","optd": "Merah","opte": "Abu Abu","key": "a","cat": "1" },
 {
-        "id": 8, "question": "Brown = ...",  "opta": "Hijau", "optb": "Biru", "optc": "Coklat", "optd": "Kuning", "opte": "Abu Abu", "key": "c","cat": "1"
-    },
+    "id": 3,
+    "question": "Green = ...",
+    "opta": "Merah Muda",
+    "optb": "Abu Abu",
+    "optc": "Merah",
+    "optd": "Hijau",
+    "opte": "Putih",
+    "key": "d",
+    "cat": "1"
+},
 {
-        "id": 9, "question": "Grey = ...",  "opta": "Cokelat", "optb": "Kuning", "optc": "Merah", "optd": "Hijau", "opte": "Abu Abu", "key": "e","cat": "1"
-    },
+    "id": 4,
+    "question": "Yellow = ...",
+    "opta": "Hijau",
+    "optb": "Merah",
+    "optc": "Kuning",
+    "optd": "Hitam",
+    "opte": "Ungu",
+    "key": "c",
+    "cat": "1"
+},
 {
-        "id": 10, "question": "Pink = ...",  "opta": "Biru", "optb": "Merah Muda", "optc": "Hitam", "optd": "Putih", "opte": "Kuning", "key": "b","cat": "1"
-    }
+    "id": 5,
+    "question": "Purple = ...",
+    "opta": "Putih",
+    "optb": "Biru",
+    "optc": "Merah",
+    "optd": "Ungu",
+    "opte": "Hitam",
+    "key": "d",
+    "cat": "1"
+},
+{
+    "id": 6,
+    "question": "Black = ...",
+    "opta": "Putih",
+    "optb": "Hitam",
+    "optc": "Kuning",
+    "optd": "Merah",
+    "opte": "Abu Abu",
+    "key": "b",
+    "cat": "1"
+},
+{
+    "id": 7, "question": "White = ...",  "opta": "Kuning", "optb": "Putih", "optc": "Hitam", "optd": "Hijau", "opte": "Abu Abu", "key": "b","cat": "1"
+},
+{
+    "id": 8, "question": "Brown = ...",  "opta": "Hijau", "optb": "Biru", "optc": "Coklat", "optd": "Kuning", "opte": "Abu Abu", "key": "c","cat": "1"
+},
+{
+    "id": 9, "question": "Grey = ...",  "opta": "Cokelat", "optb": "Kuning", "optc": "Merah", "optd": "Hijau", "opte": "Abu Abu", "key": "e","cat": "1"
+},
+{
+    "id": 10, "question": "Pink = ...",  "opta": "Biru", "optb": "Merah Muda", "optc": "Hitam", "optd": "Putih", "opte": "Kuning", "key": "b","cat": "1"
+},
+
+{
+    "id": 11,
+    "question": "Elephant = ...",
+    "opta": "Kambing",
+    "optb": "Burung",
+    "optc": "Gajah",
+    "optd": "Unta",
+    "opte": "Semut",
+    "key": "c",
+    "cat": "2"
+},
+
+{
+    "id": 12,
+    "question": "Lion = ...",
+    "opta": "Semut",
+    "optb": "Burung",
+    "optc": "Nyamuk",
+    "optd": "Singa",
+    "opte": "Ikan",
+    "key": "d",
+    "cat": "2"
+},
+
+{
+    "id": 13,
+    "question": "Ant = ...",
+    "opta": "Ikan",
+    "optb": "Beruang",
+    "optc": "Burung",
+    "optd": "Kucing",
+    "opte": "Semut",
+    "key": "d",
+    "cat": "2"
+},
+
+{
+    "id": 14,
+    "question": "Bird = ...",
+    "opta": "Burung",
+    "optb": "Sapi",
+    "optc": "Kuda",
+    "optd": "Semut",
+    "opte": "Ikan",
+    "key": "a",
+    "cat": "2"
+},
+
+{
+    "id": 15,
+    "question": "Cat = ...",
+    "opta": "Kambing",
+    "optb": "Kuda",
+    "optc": "Sapi",
+    "optd": "Kucing",
+    "opte": "Ikan",
+    "key": "d",
+    "cat": "2"
+},
+
+{
+    "id": 16,
+    "question": "Mosquito = ...",
+    "opta": "Burung",
+    "optb": "Ikan",
+    "optc": "Gajah",
+    "optd": "Singa",
+    "opte": "Nyamuk",
+    "key": "e",
+    "cat": "2"
+},
+
+{
+    "id": 17,
+    "question": "Horse = ...",
+    "opta": "Sapi",
+    "optb": "Kuda",
+    "optc": "Banteng",
+    "optd": "Ikan",
+    "opte": "Jerapah",
+    "key": "b",
+    "cat": "2"
+},
+
+{
+    "id": 18,
+    "question": "Cow = ...",
+    "opta": "Kambing",
+    "optb": "Semut",
+    "optc": "Sapi",
+    "optd": "Jerapah",
+    "opte": "Gajah",
+    "key": "c",
+    "cat": "2"
+},
+
+{
+    "id": 19,
+    "question": "Goat = ...",
+    "opta": "Sapi",
+    "optb": "Semut",
+    "optc": "Nyamuk",
+    "optd": "Kambing",
+    "opte": "Harimau",
+    "key": "d",
+    "cat": "2"
+},
+
+{
+    "id": 20,
+    "question": "Chicken = ...",
+    "opta": "Ayam",
+    "optb": "Kelinci",
+    "optc": "Ikan",
+    "optd": "Kucing",
+    "opte": "Sapi",
+    "key": "a",
+    "cat": "2"
+},
+{
+    "id": 21,
+    "question": "Eye = ...",
+    "opta": "Telinga",
+    "optb": "Jari",
+    "optc": "Mata",
+    "optd": "Gigi",
+    "opte": "Leher",
+    "key": "c",
+    "cat": "3"
+},
+{
+    "id": 22,
+    "question": "Ear = ...",
+    "opta": "Mata",
+    "optb": "Hidung",
+    "optc": "Leher",
+    "optd": "Perut",
+    "opte": "Telinga",
+    "key": "e",
+    "cat": "3"
+},
+{
+    "id": 23,
+    "question": "Hand = ...",
+    "opta": "Mata",
+    "optb": "Dada",
+    "optc": "Tangan",
+    "optd": "Perut",
+    "opte": "Kaki",
+    "key": "c",
+    "cat": "3"
+},
+{
+    "id": 24,
+    "question": "Foot = ...",
+    "opta": "Leher",
+    "optb": "Hidung",
+    "optc": "Kepala",
+    "optd": "Kaki",
+    "opte": "Tangan",
+    "key": "c",
+    "cat": "3"
+},
+{
+    "id": 25,
+    "question": "Stomach = ...",
+    "opta": "Mata",
+    "optb": "Dada",
+    "optc": "Bahu",
+    "optd": "Leher",
+    "opte": "Perut",
+    "key": "e",
+    "cat": "3"
+},
+{
+    "id": 26,
+    "question": "Hair = ...",
+    "opta": "Rambut",
+    "optb": "ALis",
+    "optc": "Hidung",
+    "optd": "Mata",
+    "opte": "Telinga",
+    "key": "a",
+    "cat": "3"
+},
+{
+    "id": 27,
+    "question": "Mouth = ...",
+    "opta": "Rambut",
+    "optb": "Mulut",
+    "optc": "Kaki",
+    "optd": "Tangan",
+    "opte": "Bibir",
+    "key": "b",
+    "cat": "3"
+},
+{
+    "id": 28,
+    "question": "Tongue = ...",
+    "opta": "Mata",
+    "optb": "Telinga",
+    "optc": "Lidah",
+    "optd": "Gigi",
+    "opte": "Mulut",
+    "key": "c",
+    "cat": "3"
+},
+{
+    "id": 29,
+    "question": "Tooth = ...",
+    "opta": "Hidung",
+    "optb": "Kaki",
+    "optc": "Bibir",
+    "optd": "Gigi",
+    "opte": "Mulut",
+    "key": "d",
+    "cat": "3"
+},
+{
+    "id": 30,
+    "question": "Finger = ...",
+    "opta": "Tangan",
+    "optb": "Hidung",
+    "optc": "Leher",
+    "optd": "Kaki",
+    "opte": "Jari",
+    "key": "e",
+    "cat": "3"
+},
+
+
+
+
+
+
+{
+    "id": 1000,
+    "question": "Kosong = ...",
+    "opta": "kosong",
+    "optb": "kosong",
+    "optc": "kosong",
+    "optd": "kosong",
+    "opte": "kosong",
+    "key": "kosong",
+    "cat": "100"
+}
 
 ]
