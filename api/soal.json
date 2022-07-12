@@ -1,6 +1,26 @@
 [
-{ "id": 1,"question": "Red = ...","opta": "Kuning","optb": "Biru","optc": "Merah","optd": "Hitam","opte": "Cokelat","key": "c","cat": "1" },
-{ "id": 2,"question": "Blue = ...","opta": "Biru","optb": "Cokelat","optc": "Kuning","optd": "Merah","opte": "Abu Abu","key": "a","cat": "1" },
+{ 
+"id": 1,
+"question": "Red = ...",
+"opta": "Kuning",
+"optb": "Biru",
+"optc": "Merah",
+"optd": "Hitam",
+"opte": "Cokelat",
+"key": "c",
+"cat": "1" 
+},
+{ 
+"id": 2,
+"question": "Blue = ...",
+"opta": "Biru",
+"optb": "Cokelat",
+"optc": "Kuning",
+"optd": "Merah",
+"opte": "Abu Abu",
+"key": "a",
+"cat": "1" 
+},
 {
     "id": 3,
     "question": "Green = ...",
@@ -8,7 +28,7 @@
     "optb": "Abu Abu",
     "optc": "Merah",
     "optd": "Hijau",
-    "opte": "Putih",
+    "opte": "",
     "key": "d",
     "cat": "1"
 },
@@ -19,7 +39,7 @@
     "optb": "Merah",
     "optc": "Kuning",
     "optd": "Hitam",
-    "opte": "Ungu",
+    "opte": "",
     "key": "c",
     "cat": "1"
 },
@@ -30,7 +50,7 @@
     "optb": "Biru",
     "optc": "Merah",
     "optd": "Ungu",
-    "opte": "Hitam",
+    "opte": "",
     "key": "d",
     "cat": "1"
 },
@@ -41,21 +61,51 @@
     "optb": "Hitam",
     "optc": "Kuning",
     "optd": "Merah",
-    "opte": "Abu Abu",
+    "opte": "",
     "key": "b",
     "cat": "1"
 },
 {
-    "id": 7, "question": "White = ...",  "opta": "Kuning", "optb": "Putih", "optc": "Hitam", "optd": "Hijau", "opte": "Abu Abu", "key": "b","cat": "1"
+    "id": 7, 
+	"question": "White = ...",  
+	"opta": "Kuning", 
+	"optb": "Putih", 
+	"optc": "Hitam", 
+	"optd": "Hijau", 
+	"opte": "Abu Abu", 
+	"key": "b",
+	"cat": "1"
 },
 {
-    "id": 8, "question": "Brown = ...",  "opta": "Hijau", "optb": "Biru", "optc": "Coklat", "optd": "Kuning", "opte": "Abu Abu", "key": "c","cat": "1"
+    "id": 8, 
+	"question": "Brown = ...",  
+	"opta": "Hijau", 
+	"optb": "Biru", 
+	"optc": "Coklat", 
+	"optd": "Kuning", 
+	"opte": "Abu Abu", 
+	"key": "c",
+	"cat": "1"
 },
 {
-    "id": 9, "question": "Grey = ...",  "opta": "Cokelat", "optb": "Kuning", "optc": "Merah", "optd": "Hijau", "opte": "Abu Abu", "key": "e","cat": "1"
+    "id": 9, 
+	"question": "Grey = ...",  
+	"opta": "Cokelat", 
+	"optb": "Kuning", 
+	"optc": "Abu Abu", 
+	"optd": "Hijau", 
+	"opte": "", "key": "c","cat": "1"
 },
 {
-    "id": 10, "question": "Pink = ...",  "opta": "Biru", "optb": "Merah Muda", "optc": "Hitam", "optd": "Putih", "opte": "Kuning", "key": "b","cat": "1"
+    "id": 10, 
+	"question": "Pink = ...",  
+	"opta": "Biru", 
+	"optb": "Merah Muda", 
+	"optc": "Hitam", 
+	"optd": "Putih", 
+	"opte": "Kuning", 
+	"key": "b",
+	"cat": "1"
 },
 
 {
@@ -88,9 +138,9 @@
     "opta": "Ikan",
     "optb": "Beruang",
     "optc": "Burung",
-    "optd": "Kucing",
-    "opte": "Semut",
-    "key": "e",
+    "optd": "Semut",
+    "opte": "",
+    "key": "d",
     "cat": "2"
 },
 
@@ -123,10 +173,10 @@
     "question": "Mosquito = ...",
     "opta": "Burung",
     "optb": "Ikan",
-    "optc": "Gajah",
+    "optc": "Nyamuk",
     "optd": "Singa",
-    "opte": "Nyamuk",
-    "key": "e",
+    "opte": "",
+    "key": "c",
     "cat": "2"
 },
 
@@ -194,9 +244,9 @@
     "opta": "Mata",
     "optb": "Hidung",
     "optc": "Leher",
-    "optd": "Perut",
-    "opte": "Telinga",
-    "key": "e",
+    "optd": "Telinga",
+    "opte": "",
+    "key": "d",
     "cat": "3"
 },
 {
@@ -224,19 +274,19 @@
 {
     "id": 25,
     "question": "Stomach = ...",
-    "opta": "Mata",
+    "opta": "Perut",
     "optb": "Dada",
     "optc": "Bahu",
     "optd": "Leher",
-    "opte": "Perut",
-    "key": "e",
+    "opte": "",
+    "key": "a",
     "cat": "3"
 },
 {
     "id": 26,
     "question": "Hair = ...",
     "opta": "Rambut",
-    "optb": "ALis",
+    "optb": "Alis",
     "optc": "Hidung",
     "optd": "Mata",
     "opte": "Telinga",
@@ -280,11 +330,11 @@
     "id": 30,
     "question": "Finger = ...",
     "opta": "Tangan",
-    "optb": "Hidung",
+    "optb": "Jari",
     "optc": "Leher",
     "optd": "Kaki",
-    "opte": "Jari",
-    "key": "e",
+    "opte": "",
+    "key": "b",
     "cat": "3"
 },
 {
@@ -337,9 +387,9 @@
     "opta": "Sendok",
     "optb": "Meja",
     "optc": "Piring",
-    "optd": "Nasi",
-    "opte": "Garpu",
-    "key": "e",
+    "optd": "Garpu",
+    "opte": "",
+    "key": "d",
     "cat": "4"
 },
 {
@@ -390,11 +440,11 @@
     "id": 40,
     "question": "Clothes = ...",
     "opta": "Selimut",
-    "optb": "Kasur",
+    "optb": "Pakaian",
     "optc": "Bantal",
     "optd": "Tas",
-    "opte": "Pakaian",
-    "key": "e",
+    "opte": "",
+    "key": "b",
     "cat": "4"
 },
 {
@@ -445,11 +495,11 @@
     "id": 45,
     "question": "Cupboard = ...",
     "opta": "Tempat Tidur",
-    "optb": "Dinding",
+    "optb": "Lemari",
     "optc": "Meja",
     "optd": "Jendela",
-    "opte": "Lemari",
-    "key": "e",
+    "opte": "",
+    "key": "b",
     "cat": "5"
 },
 {
@@ -502,11 +552,897 @@
     "opta": "Lantai",
     "optb": "Pintu",
     "optc": "Lemari",
-    "optd": "Jendela",
-    "opte": "Atap",
-    "key": "e",
+    "optd": "Atap",
+    "opte": "",
+    "key": "d",
     "cat": "5"
 },
+{
+    "id": 51,
+    "question": "Hat = ...",
+    "opta": "Topi",
+    "optb": "Baju",
+    "optc": "Sepatu",
+    "optd": "Sendal",
+    "opte": "Tongkat",
+    "key": "a",
+    "cat": "6"
+},
+{
+    "id": 52,
+    "question": "Shoes = ...",
+    "opta": "Dasi",
+    "optb": "Sepatu",
+    "optc": "Tas",
+    "optd": "Kursi",
+    "opte": "Celana",
+    "key": "b",
+    "cat": "6"
+},
+{
+    "id": 53,
+    "question": "Plate = ...",
+    "opta": "Sendok",
+    "optb": "Gunting",
+    "optc": "Piring",
+    "optd": "Cangkir",
+    "opte": "Mangkuk",
+    "key": "c",
+    "cat": "6"
+},
+{
+    "id": 54,
+    "question": "Cup = ...",
+    "opta": "Piring",
+    "optb": "Meja",
+    "optc": "Cangkir",
+    "optd": "Garpu",
+    "opte": "Mangkuk",
+    "key": "c",
+    "cat": "6"
+},
+{
+    "id": 55,
+    "question": "Picture = ...",
+    "opta": "Lapangan",
+    "optb": "Gambar",
+    "optc": "Tulisan",
+    "optd": "Meja",
+    "opte": "",
+    "key": "b",
+    "cat": "6"
+},
+{
+    "id": 56,
+    "question": "Field = ...",
+    "opta": "Lapangan",
+    "optb": "Gedung",
+    "optc": "Meja",
+    "optd": "Kursi",
+    "opte": "Jembatan",
+    "key": "a",
+    "cat": "6"
+},
+{
+    "id": 57,
+    "question": "Night = ...",
+    "opta": "Siang",
+    "optb": "Malam",
+    "optc": "Sore",
+    "optd": "Senja",
+    "opte": "",
+    "key": "b",
+    "cat": "6"
+},
+{
+    "id": 58,
+    "question": "Rice = ...",
+    "opta": "Air",
+    "optb": "Angin",
+    "optc": "Nasi",
+    "optd": "Jagung",
+    "opte": "EEEEEEE",
+    "key": "c",
+    "cat": "6"
+},
+{
+    "id": 59,
+    "question": "Morning = ...",
+    "opta": "Siang",
+    "optb": "Malam",
+    "optc": "Senja",
+    "optd": "Pagi",
+    "opte": "EEEEEEE",
+    "key": "d",
+    "cat": "6"
+},
+{
+    "id": 60,
+    "question": "Beach = ...",
+    "opta": "Laut",
+    "optb": "Gunung",
+    "optc": "Pantai",
+    "optd": "Danau",
+    "opte": "",
+    "key": "c",
+    "cat": "6"
+},
+{
+    "id": 61,
+    "question": "Mountain = ...",
+    "opta": "Gunung",
+    "optb": "Pantai",
+    "optc": "Laut",
+    "optd": "Danau",
+    "opte": "EEEEEEE",
+    "key": "a",
+    "cat": "7"
+},
+{
+    "id": 62,
+    "question": "Knife = ...",
+    "opta": "Sendok",
+    "optb": "Pisau",
+    "optc": "Garpu",
+    "optd": "Gunting",
+    "opte": "EEEEEEE",
+    "key": "b",
+    "cat": "7"
+},
+{
+    "id": 63,
+    "question": "Scissor = ...",
+    "opta": "Pisau",
+    "optb": "Sendok",
+    "optc": "Gunting",
+    "optd": "Garpu",
+    "opte": "EEEEEEE",
+    "key": "c",
+    "cat": "7"
+},
+{
+    "id": 64,
+    "question": "Grass = ...",
+    "opta": "Bunga",
+    "optb": "Pohon",
+    "optc": "Lapangan",
+    "optd": "Rumput",
+    "opte": "EEEEEEE",
+    "key": "d",
+    "cat": "7"
+},
+{
+    "id": 65,
+    "question": "Stairs = ...",
+    "opta": "Bintang",
+    "optb": "Atap",
+    "optc": "Lantai",
+    "optd": "Tangga",
+    "opte": "",
+    "key": "d",
+    "cat": "7"
+},
+{
+    "id": 66,
+    "question": "Star = ...",
+    "opta": "Bintang",
+    "optb": "Bulan",
+    "optc": "Matahari",
+    "optd": "Bumi",
+    "opte": "EEEEEEE",
+    "key": "a",
+    "cat": "7"
+},
+{
+    "id": 67,
+    "question": "Moon = ...",
+    "opta": "Bintang",
+    "optb": "Bulan",
+    "optc": "Matahari",
+    "optd": "Cahaya",
+    "opte": "EEEEEEE",
+    "key": "b",
+    "cat": "7"
+},
+{
+    "id": 68,
+    "question": "Fire = ...",
+    "opta": "Air",
+    "optb": "Angin",
+    "optc": "Api",
+    "optd": "Pasir",
+    "opte": "EEEEEEE",
+    "key": "c",
+    "cat": "7"
+},
+{
+    "id": 69,
+    "question": "Wind = ...",
+    "opta": "Air",
+    "optb": "Pasir",
+    "optc": "Api",
+    "optd": "Angin",
+    "opte": "EEEEEEE",
+    "key": "d",
+    "cat": "7"
+},
+{
+    "id": 70,
+    "question": "City = ...",
+    "opta": "Desa",
+    "optb": "Jalan",
+    "optc": "Kota",
+    "optd": "Negara",
+    "opte": "",
+    "key": "c",
+    "cat": "7"
+},
+{
+    "id": 71,
+    "question": "Country = ...",
+    "opta": "Negara",
+    "optb": "Kota",
+    "optc": "Alamat",
+    "optd": "Bendera",
+    "opte": "EEEEEEE",
+    "key": "a",
+    "cat": "8"
+},
+{
+    "id": 72,
+    "question": "Book = ...",
+    "opta": "Buah",
+    "optb": "Buku",
+    "optc": "Penggaris",
+    "optd": "Papan Tulis",
+    "opte": "EEEEEEE",
+    "key": "b",
+    "cat": "8"
+},
+{
+    "id": 73,
+    "question": "Flower = ...",
+    "opta": "Daun",
+    "optb": "Lapangan",
+    "optc": "Bunga",
+    "optd": "Akar",
+    "opte": "EEEEEEE",
+    "key": "c",
+    "cat": "8"
+},
+{
+    "id": 74,
+    "question": "Chest = ...",
+    "opta": "Perut",
+    "optb": "Leher",
+    "optc": "Lutut",
+    "optd": "Dada",
+    "opte": "EEEEEEE",
+    "key": "d",
+    "cat": "8"
+},
+{
+    "id": 75,
+    "question": "Face = ...",
+    "opta": "Wajah",
+    "optb": "Hidung",
+    "optc": "Mata",
+    "optd": "Kepala",
+    "opte": "",
+    "key": "a",
+    "cat": "8"
+},
+{
+    "id": 76,
+    "question": "Knee = ...",
+    "opta": "Lutut",
+    "optb": "Leher",
+    "optc": "Lengan",
+    "optd": "Kaki",
+    "opte": "EEEEEEE",
+    "key": "a",
+    "cat": "8"
+},
+{
+    "id": 77,
+    "question": "Lips = ...",
+    "opta": "Mulut",
+    "optb": "Bibir",
+    "optc": "Lidah",
+    "optd": "Hidung",
+    "opte": "EEEEEEE",
+    "key": "b",
+    "cat": "8"
+},
+{
+    "id": 78,
+    "question": "Bread = ...",
+    "opta": "Nasi",
+    "optb": "Jagung",
+    "optc": "Roti",
+    "optd": "Tepung",
+    "opte": "EEEEEEE",
+    "key": "c",
+    "cat": "8"
+},
+{
+    "id": 79,
+    "question": "Fish = ...",
+    "opta": "Burung",
+    "optb": "Ayam",
+    "optc": "Cumi",
+    "optd": "Ikan",
+    "opte": "EEEEEEE",
+    "key": "d",
+    "cat": "8"
+},
+{
+    "id": 80,
+    "question": "Salt = ...",
+    "opta": "Gula",
+    "optb": "Garam",
+    "optc": "Air",
+    "optd": "Tepung",
+    "opte": "",
+    "key": "b",
+    "cat": "8"
+},
+{
+    "id": 81,
+    "question": "Sugar = ...",
+    "opta": "Gula",
+    "optb": "Garam",
+    "optc": "Tepung",
+    "optd": "Air",
+    "opte": "________",
+    "key": "a",
+    "cat": "9"
+},
+{
+    "id": 82,
+    "question": "Banana = ...",
+    "opta": "Anggur",
+    "optb": "Pisang",
+    "optc": "Apel",
+    "optd": "Jagung",
+    "opte": "________",
+    "key": "b",
+    "cat": "9"
+},
+{
+    "id": 83,
+    "question": "Grape = ...",
+    "opta": "Semangka",
+    "optb": "Melon",
+    "optc": "Anggur",
+    "optd": "Pisang",
+    "opte": "________",
+    "key": "c",
+    "cat": "9"
+},
+{
+    "id": 84,
+    "question": "Flag = ...",
+    "opta": "Negara",
+    "optb": "Kota",
+    "optc": "Alamat",
+    "optd": "Bendera",
+    "opte": "________",
+    "key": "d",
+    "cat": "9"
+},
+{
+    "id": 85,
+    "question": "Glue = ...",
+    "opta": "Tinta",
+    "optb": "Kertas",
+    "optc": "Lem",
+    "optd": "Penggaris",
+    "opte": "________",
+    "key": "c",
+    "cat": "9"
+},
+{
+    "id": 86,
+    "question": "Ink = ...",
+    "opta": "Tinta",
+    "optb": "Lem",
+    "optc": "Penggaris",
+    "optd": "Papan Tulis",
+    "opte": "________",
+    "key": "a",
+    "cat": "9"
+},
+{
+    "id": 87,
+    "question": "House = ...",
+    "opta": "Kamar",
+    "optb": "Rumah",
+    "optc": "Halaman",
+    "optd": "Lapangan",
+    "opte": "________",
+    "key": "b",
+    "cat": "9"
+},
+{
+    "id": 88,
+    "question": "Office = ...",
+    "opta": "Toko",
+    "optb": "Sekolah",
+    "optc": "Kantor",
+    "optd": "Terminal",
+    "opte": "________",
+    "key": "c",
+    "cat": "9"
+},
+{
+    "id": 89,
+    "question": "Store = ...",
+    "opta": "Stasiun",
+    "optb": "Kantor",
+    "optc": "Lapangan",
+    "optd": "Toko",
+    "opte": "________",
+    "key": "d",
+    "cat": "9"
+},
+{
+    "id": 90,
+    "question": "Price = ...",
+    "opta": "Harga",
+    "optb": "Uang",
+    "optc": "Kertas",
+    "optd": "Ratu",
+    "opte": "________",
+    "key": "a",
+    "cat": "9"
+},
+{
+    "id": 91,
+    "question": "Rain = ...",
+    "opta": "Hujan",
+    "optb": "Petir",
+    "optc": "Terik",
+    "optd": "Salju",
+    "opte": "________",
+    "key": "a",
+    "cat": "10"
+},
+{
+    "id": 92,
+    "question": "Tree = ...",
+    "opta": "Ranting",
+    "optb": "Pohon",
+    "optc": "Bunga",
+    "optd": "Akar",
+    "opte": "________",
+    "key": "b",
+    "cat": "10"
+},
+{
+    "id": 93,
+    "question": "Bridge = ...",
+    "opta": "Jalan",
+    "optb": "Danau",
+    "optc": "Jembatan",
+    "optd": "Sungai",
+    "opte": "________",
+    "key": "c",
+    "cat": "10"
+},
+{
+    "id": 94,
+    "question": "Lamp = ...",
+    "opta": "Meja",
+    "optb": "Mangkuk",
+    "optc": "Bejana",
+    "optd": "Lampu",
+    "opte": "________",
+    "key": "d",
+    "cat": "10"
+},
+{
+    "id": 95,
+    "question": "Long = ...",
+    "opta": "Panjang",
+    "optb": "Pendek",
+    "optc": "Tinggi",
+    "optd": "Rendah",
+    "opte": "________",
+    "key": "a",
+    "cat": "10"
+},
+{
+    "id": 96,
+    "question": "Sea = ...",
+    "opta": "Laut",
+    "optb": "Pulau",
+    "optc": "Air",
+    "optd": "Pasir",
+    "opte": "________",
+    "key": "a",
+    "cat": "10"
+},
+{
+    "id": 97,
+    "question": "Island = ...",
+    "opta": "Pantai",
+    "optb": "Pulau",
+    "optc": "Laut",
+    "optd": "Danau",
+    "opte": "________",
+    "key": "b",
+    "cat": "10"
+},
+{
+    "id": 98,
+    "question": "Always = ...",
+    "opta": "Sebenarnya",
+    "optb": "Biasanya",
+    "optc": "Selalu",
+    "optd": "Kadang Kadang",
+    "opte": "________",
+    "key": "c",
+    "cat": "10"
+},
+{
+    "id": 99,
+    "question": "Actually = ...",
+    "opta": "Biasanya",
+    "optb": "Kebutuhan",
+    "optc": "Secepatnya",
+    "optd": "Sebenarnya",
+    "opte": "________",
+    "key": "d",
+    "cat": "10"
+},
+{
+    "id": 100,
+    "question": "Usually = ...",
+    "opta": "Biasanya",
+    "optb": "Kadang Kadang",
+    "optc": "Selalu",
+    "optd": "Sebenarnya",
+    "opte": "________",
+    "key": "a",
+    "cat": "10"
+},
+{
+    "id": 101,
+    "question": "Affection = ...",
+    "opta": "Kasih Sayang",
+    "optb": "Efek",
+    "optc": "Tujuan",
+    "optd": "Efektif",
+    "opte": "________",
+    "key": "a",
+    "cat": "11"
+},
+{
+    "id": 102,
+    "question": "Afraid = ...",
+    "opta": "Berani",
+    "optb": "Takut",
+    "optc": "Sendiri",
+    "optd": "Melarikan Diri",
+    "opte": "________",
+    "key": "b",
+    "cat": "11"
+},
+{
+    "id": 103,
+    "question": "Afternoon = ...",
+    "opta": "Pagi",
+    "optb": "Malam",
+    "optc": "Sore",
+    "optd": "Kemarin",
+    "opte": "________",
+    "key": "c",
+    "cat": "11"
+},
+{
+    "id": 104,
+    "question": "Alone = ...",
+    "opta": "Bersama",
+    "optb": "Takut",
+    "optc": "Berani",
+    "optd": "Sendiri",
+    "opte": "________",
+    "key": "d",
+    "cat": "11"
+},
+{
+    "id": 105,
+    "question": "Congratulations = ...",
+    "opta": "Selamat",
+    "optb": "Gagal",
+    "optc": "Sendiri",
+    "optd": "Berangkat",
+    "opte": "________",
+    "key": "a",
+    "cat": "11"
+},
+{
+    "id": 106,
+    "question": "Lake = ...",
+    "opta": "Laut",
+    "optb": "Danau",
+    "optc": "Pantai",
+    "optd": "Gunung",
+    "opte": "________",
+    "key": "b",
+    "cat": "11"
+},
+{
+    "id": 107,
+    "question": "Suddenly = ...",
+    "opta": "Pelajar",
+    "optb": "Kadang Kadang",
+    "optc": "Tiba Tiba",
+    "optd": "Selalu",
+    "opte": "________",
+    "key": "c",
+    "cat": "11"
+},
+{
+    "id": 108,
+    "question": "Agree = ...",
+    "opta": "Menolak",
+    "optb": "Berhasil",
+    "optc": "Batal",
+    "optd": "Setuju",
+    "opte": "________",
+    "key": "d",
+    "cat": "11"
+},
+{
+    "id": 109,
+    "question": "Growth = ...",
+    "opta": "Pertumbuhan",
+    "optb": "Persamaan",
+    "optc": "Persetujuan",
+    "optd": "Pertemuan",
+    "opte": "________",
+    "key": "a",
+    "cat": "11"
+},
+{
+    "id": 110,
+    "question": "Accuse = ...",
+    "opta": "Menerima",
+    "optb": "Menuduh",
+    "optc": "Menghargai",
+    "optd": "Menimbulkan",
+    "opte": "________",
+    "key": "b",
+    "cat": "11"
+},
+{
+    "id": 111,
+    "question": "Gift = ...",
+    "opta": "Hadiah",
+    "optb": "Harga",
+    "optc": "Barang",
+    "optd": "Ungkapan",
+    "opte": "________",
+    "key": "a",
+    "cat": "12"
+},
+{
+    "id": 112,
+    "question": "Cost = ...",
+    "opta": "Hadiah",
+    "optb": "Biaya",
+    "optc": "Inti",
+    "optd": "Budaya",
+    "opte": "________",
+    "key": "b",
+    "cat": "12"
+},
+{
+    "id": 113,
+    "question": "Another = ...",
+    "opta": "Tertentu",
+    "optb": "Setelah",
+    "optc": "Yang lain",
+    "optd": "Pikiran",
+    "opte": "________",
+    "key": "c",
+    "cat": "12"
+},
+{
+    "id": 114,
+    "question": "Several = ...",
+    "opta": "Seluruh",
+    "optb": "Sedikit",
+    "optc": "Banyak",
+    "optd": "Beberapa",
+    "opte": "________",
+    "key": "d",
+    "cat": "12"
+},
+{
+    "id": 115,
+    "question": "Unfair = ...",
+    "opta": "Tidak Adil",
+    "optb": "Jujur",
+    "optc": "Melindungi",
+    "optd": "Adil",
+    "opte": "________",
+    "key": "a",
+    "cat": "12"
+},
+{
+    "id": 116,
+    "question": "Now = ...",
+    "opta": "Lalu",
+    "optb": "Sekarang",
+    "optc": "Nanti",
+    "optd": "Mengetahui",
+    "opte": "________",
+    "key": "b",
+    "cat": "12"
+},
+{
+    "id": 117,
+    "question": "Sit = ...",
+    "opta": "Berdiri",
+    "optb": "Lari",
+    "optc": "Duduk",
+    "optd": "Pergi",
+    "opte": "________",
+    "key": "c",
+    "cat": "12"
+},
+{
+    "id": 118,
+    "question": "Eventually = ...",
+    "opta": "Tiba Tiba",
+    "optb": "Kadang Kadang",
+    "optc": "Sebelumnya",
+    "optd": "Pada Akhirnya",
+    "opte": "________",
+    "key": "d",
+    "cat": "12"
+},
+{
+    "id": 119,
+    "question": "Anything = ...",
+    "opta": "Apapun",
+    "optb": "Dimanapun",
+    "optc": "Kapanpun",
+    "optd": "Bagaimanapun",
+    "opte": "________",
+    "key": "a",
+    "cat": "12"
+},
+{
+    "id": 120,
+    "question": "Court = ...",
+    "opta": "Pertambangan",
+    "optb": "Pengadilan",
+    "optc": "Pertumbuhan",
+    "optd": "Pertambahan",
+    "opte": "________",
+    "key": "b",
+    "cat": "12"
+},
+{
+    "id": 121,
+    "question": "Sometimes = ...",
+    "opta": "Kadang Kadang",
+    "optb": "Tiba Tiba",
+    "optc": "Selalu",
+    "optd": "Sebelumnya",
+    "opte": "________",
+    "key": "a",
+    "cat": "13"
+},
+{
+    "id": 122,
+    "question": "Similar = ...",
+    "opta": "Berbeda",
+    "optb": "Serupa",
+    "optc": "Silsilah",
+    "optd": "Berhasil",
+    "opte": "________",
+    "key": "b",
+    "cat": "13"
+},
+{
+    "id": 123,
+    "question": "Consider = ...",
+    "opta": "Memperdalam",
+    "optb": "Menekuni",
+    "optc": "Mempertimbangkan",
+    "optd": "Menceritakan",
+    "opte": "________",
+    "key": "c",
+    "cat": "13"
+},
+{
+    "id": 124,
+    "question": "Accompany = ...",
+    "opta": "Meninggalkan",
+    "optb": "Mencari",
+    "optc": "Menambah",
+    "optd": "Menemani",
+    "opte": "________",
+    "key": "d",
+    "cat": "13"
+},
+{
+    "id": 125,
+    "question": "Admire = ...",
+    "opta": "Mengagumi",
+    "optb": "Menemani",
+    "optc": "Menanti",
+    "optd": "Mencari",
+    "opte": "________",
+    "key": "a",
+    "cat": "13"
+},
+{
+    "id": 126,
+    "question": "Embed = ...",
+    "opta": "Menciptakan",
+    "optb": "Menanamkan",
+    "optc": "Menambahkan",
+    "optd": "Mengurangi",
+    "opte": "________",
+    "key": "b",
+    "cat": "13"
+},
+{
+    "id": 127,
+    "question": "Genealogy = ...",
+    "opta": "Tata Ruang",
+    "optb": "Warisan",
+    "optc": "Silsilah",
+    "optd": "Sejarah",
+    "opte": "________",
+    "key": "c",
+    "cat": "13"
+},
+{
+    "id": 128,
+    "question": "Developer = ...",
+    "opta": "Penulis",
+    "optb": "Pencari",
+    "optc": "Pengguna",
+    "optd": "Pengembang",
+    "opte": "________",
+    "key": "d",
+    "cat": "13"
+},
+{
+    "id": 129,
+    "question": "After = ...",
+    "opta": "Setelah",
+    "optb": "Sebelum",
+    "optc": "Sekarang",
+    "optd": "Kemarin",
+    "opte": "________",
+    "key": "a",
+    "cat": "13"
+},
+{
+    "id": 130,
+    "question": "Landscape = ...",
+    "opta": "Lapangan",
+    "optb": "Pemandangan",
+    "optc": "Pohon",
+    "optd": "Ranting",
+    "opte": "________",
+    "key": "b",
+    "cat": "13"
+},
+
+
+
+
+
+
 
 
 
@@ -522,5 +1458,4 @@
     "key": "kosong",
     "cat": "100"
 }
-
 ]
