@@ -4409,7 +4409,336 @@
     "key": "b",
     "cat": "40"
 },
-
+{
+    "id": 401,
+    "question": "North = ...",
+    "opta": "Utara",
+    "optb": "Barat",
+    "optc": "Timur",
+    "optd": "Selatan",
+    "opte": "________",
+    "key": "a",
+    "cat": "41"
+},
+{
+    "id": 402,
+    "question": "Lazy = ...",
+    "opta": "Rajin",
+    "optb": "Malas",
+    "optc": "Pintar",
+    "optd": "Bodoh",
+    "opte": "________",
+    "key": "b",
+    "cat": "41"
+},
+{
+    "id": 403,
+    "question": "Farmer = ...",
+    "opta": "Mantan",
+    "optb": "Kebun",
+    "optc": "Petani",
+    "optd": "Pekerjaan",
+    "opte": "________",
+    "key": "c",
+    "cat": "41"
+},
+{
+    "id": 404,
+    "question": "Often = ...",
+    "opta": "Jarang",
+    "optb": "Tiba Tiba",
+    "optc": "Kadang Kadang",
+    "optd": "Sering",
+    "opte": "________",
+    "key": "d",
+    "cat": "41"
+},
+{
+    "id": 405,
+    "question": "Enhance = ...",
+    "opta": "Menambah",
+    "optb": "Mengurangi",
+    "optc": "Mengandalkan",
+    "optd": "Mengantarkan",
+    "opte": "________",
+    "key": "a",
+    "cat": "41"
+},
+{
+    "id": 406,
+    "question": "Come = ...",
+    "opta": "Pergi",
+    "optb": "Datang",
+    "optc": "Kembali",
+    "optd": "Tujuan",
+    "opte": "________",
+    "key": "b",
+    "cat": "41"
+},
+{
+    "id": 407,
+    "question": "Anxious = ...",
+    "opta": "Bersalah",
+    "optb": "Berani",
+    "optc": "Cemas",
+    "optd": "Gugup",
+    "opte": "________",
+    "key": "c",
+    "cat": "41"
+},
+{
+    "id": 408,
+    "question": "Ocean = ...",
+    "opta": "Danau",
+    "optb": "Daratan",
+    "optc": "Pegunungan",
+    "optd": "Lautan",
+    "opte": "________",
+    "key": "d",
+    "cat": "41"
+},
+{
+    "id": 409,
+    "question": "Probably = ...",
+    "opta": "Mungkin",
+    "optb": "Akan",
+    "optc": "Segera",
+    "optd": "Pikiran",
+    "opte": "________",
+    "key": "a",
+    "cat": "41"
+},
+{
+    "id": 410,
+    "question": "Ensure = ...",
+    "opta": "Menjemput",
+    "optb": "Memastikan",
+    "optc": "Mengantarkan",
+    "optd": "Mengakui",
+    "opte": "________",
+    "key": "b",
+    "cat": "41"
+},
+{
+    "id": 411,
+    "question": "Fast = ...",
+    "opta": "Cepat",
+    "optb": "Lambat",
+    "optc": "Jauh",
+    "optd": "Dekat",
+    "opte": "________",
+    "key": "a",
+    "cat": "42"
+},
+{
+    "id": 412,
+    "question": "Pretend = ...",
+    "opta": "Berbeda",
+    "optb": "Berpura Pura",
+    "optc": "Berbicara",
+    "optd": "Berlebihan",
+    "opte": "________",
+    "key": "b",
+    "cat": "42"
+},
+{
+    "id": 413,
+    "question": "Receive = ...",
+    "opta": "Mengantarkan",
+    "optb": "Mengirim",
+    "optc": "Menerima",
+    "optd": "Mengizinkan",
+    "opte": "________",
+    "key": "c",
+    "cat": "42"
+},
+{
+    "id": 414,
+    "question": "Noisy = ...",
+    "opta": "Sendiri",
+    "optb": "Sepi",
+    "optc": "Senyap",
+    "optd": "Bising",
+    "opte": "________",
+    "key": "d",
+    "cat": "42"
+},
+{
+    "id": 415,
+    "question": "Circle = ...",
+    "opta": "Lingkaran",
+    "optb": "Persegi",
+    "optc": "Halaman",
+    "optd": "Lukisan",
+    "opte": "________",
+    "key": "a",
+    "cat": "42"
+},
+{
+    "id": 416,
+    "question": "Soft = ...",
+    "opta": "Keras",
+    "optb": "Lembut",
+    "optc": "Kasar",
+    "optd": "Hancur",
+    "opte": "________",
+    "key": "b",
+    "cat": "42"
+},
+{
+    "id": 417,
+    "question": "Especially = ...",
+    "opta": "Umumnya",
+    "optb": "Seharusnya",
+    "optc": "Khususnya",
+    "optd": "Hambatan",
+    "opte": "________",
+    "key": "c",
+    "cat": "42"
+},
+{
+    "id": 418,
+    "question": "Fortune = ...",
+    "opta": "Kesedihan",
+    "optb": "Kesenangan",
+    "optc": "Kebutuhan",
+    "optd": "Kekayaan",
+    "opte": "________",
+    "key": "d",
+    "cat": "42"
+},
+{
+    "id": 419,
+    "question": "Capable = ...",
+    "opta": "Mampu",
+    "optb": "Takut",
+    "optc": "Sedih",
+    "optd": "Kapasitas",
+    "opte": "________",
+    "key": "a",
+    "cat": "42"
+},
+{
+    "id": 420,
+    "question": "Reflect = ...",
+    "opta": "Menambahkan",
+    "optb": "Mencerminkan",
+    "optc": "Mengumpulkan",
+    "optd": "Menghindari",
+    "opte": "________",
+    "key": "b",
+    "cat": "42"
+},
+{
+    "id": 421,
+    "question": "Feel = ...",
+    "opta": "Merasa",
+    "optb": "Menghindari",
+    "optc": "Mengikuti",
+    "optd": "Mendengar",
+    "opte": "________",
+    "key": "a",
+    "cat": "43"
+},
+{
+    "id": 422,
+    "question": "Open = ...",
+    "opta": "Tutup",
+    "optb": "Buka",
+    "optc": "Dorong",
+    "optd": "Tarik",
+    "opte": "________",
+    "key": "b",
+    "cat": "43"
+},
+{
+    "id": 423,
+    "question": "Refuse = ...",
+    "opta": "Menerima",
+    "optb": "Mengirim",
+    "optc": "Menolak",
+    "optd": "Mengizinkan",
+    "opte": "________",
+    "key": "c",
+    "cat": "43"
+},
+{
+    "id": 424,
+    "question": "Breakfast = ...",
+    "opta": "Makan Malam",
+    "optb": "Istirahat",
+    "optc": "Makan Siang",
+    "optd": "Sarapan",
+    "opte": "________",
+    "key": "d",
+    "cat": "43"
+},
+{
+    "id": 425,
+    "question": "Patient = ...",
+    "opta": "Sabar",
+    "optb": "Sedih",
+    "optc": "Pasien",
+    "optd": "Perawat",
+    "opte": "________",
+    "key": "a",
+    "cat": "43"
+},
+{
+    "id": 426,
+    "question": "Coach = ...",
+    "opta": "Guru",
+    "optb": "Pelatih",
+    "optc": "Murid",
+    "optd": "Kepala Sekolah",
+    "opte": "________",
+    "key": "b",
+    "cat": "43"
+},
+{
+    "id": 427,
+    "question": "Dust = ...",
+    "opta": "Pasir",
+    "optb": "Air",
+    "optc": "Debu",
+    "optd": "Udara",
+    "opte": "________",
+    "key": "c",
+    "cat": "43"
+},
+{
+    "id": 428,
+    "question": "Conscious = ...",
+    "opta": "Sedih",
+    "optb": "Sakit",
+    "optc": "Pingsan",
+    "optd": "Sadar",
+    "opte": "________",
+    "key": "d",
+    "cat": "43"
+},
+{
+    "id": 429,
+    "question": "Welfare = ...",
+    "opta": "Kesejahteraan",
+    "optb": "Keseimbangan",
+    "optc": "Kekayaan",
+    "optd": "Kemiskinan",
+    "opte": "________",
+    "key": "a",
+    "cat": "43"
+},
+{
+    "id": 430,
+    "question": "Replace = ...",
+    "opta": "Menghubungkan",
+    "optb": "Mengganti",
+    "optc": "Menerima",
+    "optd": "Memberi",
+    "opte": "________",
+    "key": "b",
+    "cat": "43"
+},
 
 
 
@@ -4427,4 +4756,3 @@
     "cat": "100"
 }
 ]
-
